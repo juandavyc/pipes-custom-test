@@ -36,10 +36,11 @@ export class MenuComponent {
         icon: 'pi pi-cog',
         items: [
           {
-            label: 'notro elemento',
+            label: 'customs pipies',
             icon: 'pi pi-cog',
             // disabled: true,
-            badge: 'nto',
+            // badge: 'nto',
+            routerLink:'custom'
 
             // items: [
             //   {
